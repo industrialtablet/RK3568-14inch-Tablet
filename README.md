@@ -1,18 +1,18 @@
-# RK3566 14inch Tablet
-This is the documentation for RK3566 14inch Tablet products, written by RSD Team of HYY Technology Co.,Ltd.
+# RK3568 14inch Tablet
+This is the documentation for RK3568 14inch Tablet products, written by RSD Team of HYY Technology Co.,Ltd.
 
 # Product information: "HYY Touch Display Tablet 14 Zoll PoE mit 2GB/16GB, RK3566 Android 11"
-# RK3566 14inch Tablet Front View
-![RK3566 14inch Tablet Front View](RK3566_14inch_tablet_front_view.png?raw=true)
+# RK3568 14inch Tablet Front View
+![RK3568 14inch Tablet Front View](RK3568_14inch_tablet_front_view.png?raw=true)
 #
-# RK3566 14inch Tablet MainBoard
-![RK3566 14inch Tablet MainBoard](YF-023D_RK3566_SBC_Product_view.png?raw=true)
-[YF-023D RK3566 SBC/mainboard/motherboard Specifications Sheet](YF-023D_RK3566_SBC.md)
+# RK3568 14inch Tablet MainBoard
+![RK3568 14inch Tablet MainBoard](YF-023D_RK3568_SBC_Product_view.png?raw=true)
+[YF-023D RK3566 SBC/mainboard/motherboard Specifications Sheet](YF-023D_RK3568_SBC.md)
 # 
-RK3566 14inch Tablet Specifications Sheet
+RK3568 14inch Tablet Specifications Sheet
 <table border="1">
     <tr>
-        <td colspan="3">Model NO. ALLTAB-14RK3566A11PoE </td>
+        <td colspan="3">Model NO. ALLTAB-14RK3568A11PoE </td>
     </tr>
     <tr>
         <td>Product Type</td>
@@ -21,7 +21,7 @@ RK3566 14inch Tablet Specifications Sheet
     <tr>
         <td rowspan="5">System</td>
         <td>CPU</td>
-        <td>Rockchip RK3566 64bit Quad core processor, CPU:Quad core Arm Cortex-A55(1.8G), GPU: Mali-G52EE GPU</td>
+        <td>Rockchip RK3568 64bit Quad core processor, CPU:Quad core Arm Cortex-A55(1.8G), GPU: Mali-G52EE GPU</td>
     </tr>
     <tr>
         <td>RAM</td>
@@ -190,13 +190,13 @@ RK3566 14inch Tablet Specifications Sheet
 # <a href="https://youtu.be/Fi_gvhEwSR4">Install software from googlePlay video</a>
 
 # Accessories
-![RK3566 14inch Tablet Accessories 1](RK3566_14inch_tablet_accessories1.png?raw=true)
+![RK3568 14inch Tablet Accessories 1](RK3568_14inch_tablet_accessories1.png?raw=true)
 
-![RK3566 14inch Tablet Accessories 2](RK3566_14inch_tablet_accessories2.png?raw=true)
+![RK3568 14inch Tablet Accessories 2](RK3568_14inch_tablet_accessories2.png?raw=true)
 
-![RK3566 14inch Tablet Accessories 3](RK3566_14inch_tablet_accessories3.png?raw=true)
+![RK3568 14inch Tablet Accessories 3](RK3568_14inch_tablet_accessories3.png?raw=true)
 
-![RK3566 14inch Tablet Accessories 4](RK3566_14inch_tablet_accessories4.png?raw=true)
+![RK3568 14inch Tablet Accessories 4](RK3568_14inch_tablet_accessories4.png?raw=true)
 
 # How Order
 Send your message to sales team: **<export8@we-signage.com>**
