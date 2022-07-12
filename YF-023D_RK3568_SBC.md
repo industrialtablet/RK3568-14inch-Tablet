@@ -15,6 +15,11 @@ This is the documentation for RK3568 14inch Tablet products, written by RSD Team
 ![YF-023D RK3568 SBC PCB SIZE B](YF-023D_RK3568_SBC_PCB_SIZE_B.png?raw=true)
 #
 
+
+[YF-023D RK3568 SBC/mainboard/motherboard schematic diagram](rk3568_aiot_pc_20220608.pdf)
+
+[YF-023D RK3568 SBC/mainboard/motherboard PCB diagram](RK3568_V2.0_20220607.pdf)
+
 YF-023D RK3568 SBC/mainboard/motherboard Specifications Sheet
 <table border="1">
     <tr>
