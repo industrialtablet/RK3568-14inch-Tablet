@@ -1,18 +1,23 @@
 # RK3568 14inch Tablet
+
+![0](./RK3568-14inch-Tablet/Pictures/test.gif)
+
 This is the documentation for RK3568 14inch Tablet products, written by RSD Team of HYY Technology Co.,Ltd.
 
 # Product information: "HYY Touch Display Tablet 14 Zoll PoE mit 2GB/16GB, RK3568 Android 11"
 # RK3568 14inch Tablet Front View
-![RK3568 14inch Tablet Front View](RK3568_14inch_tablet_front_view.png?raw=true)
+![RK3568 14inch Tablet Front View](./RK3568-14inch-Tablet/Pictures/RK3568_14inch_tablet_front_view.png?raw=true)
 #
+
 # RK3568 ubuntu20.04 screen
-![RK3568 14inch Tablet ubuntu screen](ubuntu_screen.jpg?raw=true)
+![RK3568 14inch Tablet ubuntu screen](./RK3568-14inch-Tablet/Pictures/ubuntu_screen.jpg?raw=true)
 # RK3568 14inch Tablet MainBoard
-![RK3568 14inch Tablet MainBoard Top](YF-023D_RK3568_SBC_Product_view.png?raw=true)
-![RK3568 14inch Tablet MainBoard Buttom](YF-023D_RK3568_SBC_Product_view_back.png?raw=true)
-[YF-023D RK3568 SBC/mainboard/motherboard Specifications Sheet](YF-023D_RK3568_SBC.md)
+![RK3568 14inch Tablet MainBoard Top](./RK3568-14inch-Tablet/Pictures/YF-023D_RK3568_SBC_Product_view.png?raw=true)
+![RK3568 14inch Tablet MainBoard Buttom](./RK3568-14inch-Tablet/Pictures/YF-023D_RK3568_SBC_Product_view_back.png?raw=true)
+[YF-023D RK3568 SBC/mainboard/motherboard Specifications Sheet](./RK3568-14inch-Tablet/YF-023D_RK3568_SBC.md)
 # 
 RK3568 14inch Tablet Specifications Sheet
+
 <table border="1">
     <tr>
         <td colspan="3">Model NO. ALLTAB-14RK3568A11PoE </td>
@@ -185,21 +190,21 @@ RK3568 14inch Tablet Specifications Sheet
 </table>
 
 #
- 
+
 # <a href="https://youtu.be/Fi_gvhEwSR4">Aging and test video</a>
- 
+
 # <a href="https://youtu.be/Fi_gvhEwSR4">Open and power-on product video</a>
- 
+
 # <a href="https://youtu.be/Fi_gvhEwSR4">Install software from googlePlay video</a>
 
 # Accessories
-![RK3568 14inch Tablet Accessories 1](RK3568_14inch_tablet_accessories1.png?raw=true)
+![RK3568 14inch Tablet Accessories 1](./RK3568-14inch-Tablet/Pictures/RK3568_14inch_tablet_accessories1.png?raw=true)
 
-![RK3568 14inch Tablet Accessories 2](RK3568_14inch_tablet_accessories2.png?raw=true)
+![RK3568 14inch Tablet Accessories 2](./RK3568-14inch-Tablet/Pictures/RK3568_14inch_tablet_accessories2.png?raw=true)
 
-![RK3568 14inch Tablet Accessories 3](RK3568_14inch_tablet_accessories3.png?raw=true)
+![RK3568 14inch Tablet Accessories 3](./RK3568-14inch-Tablet/Pictures/RK3568_14inch_tablet_accessories3.png?raw=true)
 
-![RK3568 14inch Tablet Accessories 4](RK3568_14inch_tablet_accessories4.png?raw=true)
+![RK3568 14inch Tablet Accessories 4](./RK3568-14inch-Tablet/Pictures/RK3568_14inch_tablet_accessories4.png?raw=true)
 
 # How Order
 Send your message to sales team: **<export8@we-signage.com>**
