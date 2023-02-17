@@ -1,6 +1,6 @@
 ![0](./RK3568-14inch-Tablet/Pictures/test.gif)
 
-# <div style='width:100%;text-align:center'><a>RK3568 14inch Tablet</a></div>
+# <div style='width:100%;text-align:center;background:red'><a>RK3568 14inch Tablet</a></div>
 
 
 
