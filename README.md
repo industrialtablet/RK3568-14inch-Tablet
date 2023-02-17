@@ -1,6 +1,8 @@
-# RK3568 14inch Tablet
+# 
 
 ![0](./RK3568-14inch-Tablet/Pictures/test.gif)
+
+## RK3568 14inch Tablet
 
 This is the documentation for RK3568 14inch Tablet products, written by RSD Team of HYY Technology Co.,Ltd.
 
