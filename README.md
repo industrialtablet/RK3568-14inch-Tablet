@@ -1,4 +1,7 @@
 # RK3568 14inch Tablet
+
+![0](./RK3568-14inch-Tablet/Pictures/test.gif)
+
 This is the documentation for RK3568 14inch Tablet products, written by RSD Team of HYY Technology Co.,Ltd.
 
 # Product information: "HYY Touch Display Tablet 14 Zoll PoE mit 2GB/16GB, RK3568 Android 11"
