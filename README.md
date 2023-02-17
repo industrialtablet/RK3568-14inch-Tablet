@@ -1,5 +1,3 @@
-# 
-
 ![0](./RK3568-14inch-Tablet/Pictures/test.gif)
 
 ## RK3568 14inch Tablet
