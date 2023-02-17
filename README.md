@@ -1,4 +1,4 @@
-![0](./RK3568-14inch-Tablet/Pictures/test.gif)
+![0](./RK3568-14inch-Tablet/Pictures/test.jpg)
 
 # <div align='center'>RK3568 14inch Tablet</div>
 
