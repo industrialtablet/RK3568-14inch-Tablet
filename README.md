@@ -11,7 +11,7 @@ This is the documentation for RK3568 14inch Tablet products, written by RSD Team
 # RK3568 14inch Tablet MainBoard
 ![RK3568 14inch Tablet MainBoard Top](./RK3568-14inch-Tablet/Pictures/YF-023D_RK3568_SBC_Product_view.png?raw=true)
 ![RK3568 14inch Tablet MainBoard Buttom](./RK3568-14inch-Tablet/Pictures/YF-023D_RK3568_SBC_Product_view_back.png?raw=true)
-[YF-023D RK3568 SBC/mainboard/motherboard Specifications Sheet](YF-023D_RK3568_SBC.md)
+[YF-023D RK3568 SBC/mainboard/motherboard Specifications Sheet](./RK3568-14inch-Tablet/YF-023D_RK3568_SBC.md)
 # 
 RK3568 14inch Tablet Specifications Sheet
 
